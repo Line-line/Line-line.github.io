@@ -1,0 +1,80 @@
+.title{
+    margin-top:10px;
+    padding-top:30px;
+    padding-bottom:30px;
+    text-align:center;
+    color: ivory;
+    background-color: teal;
+}
+
+.foodtruck{
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+    width: 28%;
+    height: 36%;
+    margin-top:30px;
+    margin-bottom:30px;
+}
+
+.explan{
+    font-size: 40px;
+    font-weight: bold;
+    margin-top:30px;
+    margin-bottom: 30px;
+}
+
+.all-size{
+    margin: 20px 100px;
+}
+
+.title_font{
+    font-size: 60px;
+    font-weight:bold;
+    font-family: 'Lato', sans-serif;
+}
+
+.selcar{
+    display:inline;
+}
+
+table {
+    height: 40%;
+    left: 10%;
+    margin: 20px auto;
+    overflow-y: scroll;
+    position: static;
+    width: 80%;
+}
+
+thead th {
+    color: cornsilk;
+    font-family: 'Lato', sans-serif;
+    font-size: 45px;
+    font-weight: border;
+    letter-spacing: 1px;
+    text-align:center;
+    text-transform: uppercase;
+}
+
+tr {
+    border-bottom: 1px solid #FFF;
+    margin-bottom: 5px;
+}
+
+th, td {
+    font-family: 'Lato', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+    width: 20%;
+}
+
+.foodtable{
+    font-size: 30px;
+}
+
+
+
+
